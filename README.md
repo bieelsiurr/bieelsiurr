@@ -9,6 +9,7 @@ Soy **Biel**, un desarrollador back-end especializado en servicios de Minecraft.
 
 Tengo una [página web](https://biieeel.me) con todas mis redes sociales y un poco más de información acerca de mí. 
 
+   
 ## contact me 📬
 
    - <img src="https://simpleicons.org/icons/twitter.svg" alt="Twitter" width="32" align="center">  [`Twitter`](https://x.com/bieelsiurr)
