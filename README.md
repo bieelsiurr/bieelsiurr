@@ -11,5 +11,5 @@ Tengo una [página web](https://biieeel.me) con todas mis redes sociales y un po
 
 ## contact me 📬
 
-   - <img src="https://simpleicons.org/icons/twitter.svg" alt="Twitter" width="32" align="center">  [`Twitter`](https://x.com/bieelsiurr)
-   - <img src="https://simpleicons.org/icons/gmail.svg" alt="Gmail" width="32" align="center">  [`Correo electrónico`](mailto:hola@biieeel.me)
+   - <img src="https://simpleicons.org/icons/twitter.svg" alt="Twitter" width="32" align="center">   [`Twitter`](https://x.com/bieelsiurr)
+   - <img src="https://simpleicons.org/icons/gmail.svg" alt="Gmail" width="32" align="center">   [`Correo electrónico`](mailto:hola@biieeel.me)
