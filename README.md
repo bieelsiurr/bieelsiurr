@@ -7,4 +7,6 @@ Soy **Biel**, un desarrollador back-end especializado en servicios de Minecraft.
 
 ### social media & contact 📚
 
-Tengo una [página web](https://biieeel.me) con todas mis redes sociales y un poco más de información acerca de mí. Puedes ponerte en contacto conmigo mediante [Twitter](https://twitter.com/bieelsiurr) o enviándome un [correo electrónico](mailto:hola@biieeel.me).
+Tengo una [página web](https://biieeel.me) con todas mis redes sociales y un poco más de información acerca de mí. 
+
+Puedes ponerte en contacto conmigo mediante [Twitter](https://twitter.com/bieelsiurr) o enviándome un [correo electrónico](mailto:hola@biieeel.me).
