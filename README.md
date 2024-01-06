@@ -16,4 +16,4 @@ Tengo una [página web](https://biieeel.me) con todas mis redes sociales y un po
 
 ###
 
-[![My Skills](https://skillicons.dev/icons?i=java,mongodb,linux,idea,cloudflare,html,css,vscode,sqlite,git,maven)](https://github.com/bieelsiurr/)
+[![My Skills](https://skillicons.dev/icons?i=java,mongodb,linux,idea,cloudflare,html,css,javascript,nextjs,tailwindcss,vscode,sqlite,git,maven)](https://github.com/bieelsiurr/)
