@@ -11,7 +11,7 @@ Tengo una [página web](https://biieeel.me) con todas mis redes sociales y un po
 
 ## contact me 📬
 
-   - <img src="https://simpleicons.org/icons/twitter.svg" alt="Twitter" width="32" align="center">   [`Twitter`](https://x.com/biiee3l)
+   - <img src="https://simpleicons.org/icons/x.svg" alt="X" width="32" align="center">   [`X`](https://x.com/biiee3l)
    - <img src="https://simpleicons.org/icons/gmail.svg" alt="Gmail" width="32" align="center">   [`Correo electrónico`](mailto:biieeel.me@gmail.com)
 
 ###
