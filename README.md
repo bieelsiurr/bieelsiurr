@@ -7,7 +7,7 @@ Soy **Biel**, un desarrollador back-end especializado en servicios de Minecraft.
 
 ## social media 📚
 
-Tengo una [página web](https://biieeel.me) con todas mis redes sociales y un poco más de información acerca de mí. 
+Tengo una [página web](https://biel.ws) con todas mis redes sociales y un poco más de información acerca de mí. 
 
 ## contact me 📬
 
