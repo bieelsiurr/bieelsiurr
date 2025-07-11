@@ -12,7 +12,7 @@ Tengo una [página web](https://biel.ws) con todas mis redes sociales y un poco 
 ## contact me 📬
 
    - <img src="https://simpleicons.org/icons/x.svg" alt="X" width="32" align="center">   [`X`](https://x.com/biiee3l)
-   - <img src="https://simpleicons.org/icons/gmail.svg" alt="Gmail" width="32" align="center">   [`Correo electrónico`](mailto:hola@biieeel.me)
+   - <img src="https://simpleicons.org/icons/gmail.svg" alt="Gmail" width="32" align="center">   [`Correo electrónico`](mailto:hola@biel.ws)
 
 ###
 
